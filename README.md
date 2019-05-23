@@ -1,2 +1,4 @@
 # Linear-Regression
-Implementing Linear Regression with sklearn 
+Linear Regression Model with sklearn 
+
+Sklearn Linear Regression Documentiaton: https://scikit-learn.org/stable/modules/generated/sklearn.linear_model.LinearRegression.html
